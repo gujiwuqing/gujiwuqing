@@ -1,8 +1,8 @@
 ### Hi Everyone 👋
-My Name is gujiwuqing!
-我叫孤寂无情
-I'm a front-end engineer
-我是一名前端工程师
+My Name is gujiwuqing!  
+我叫孤寂无情  
+I'm a front-end engineer  
+我是一名前端工程师  
 
 <!--
 **gujiwuqing/gujiwuqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
