@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://profile-counter.glitch.me/gujiwuqing/count.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gujiwuqing)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gujiwuqing&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ![](https://komarev.com/ghpvc/?username=gujiwuqing)
+![Visitor Count](https://profile-counter.glitch.me/gujiwuqing/count.svg)
 
